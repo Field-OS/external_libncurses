@@ -52,7 +52,7 @@ TERMINFO_FILES := \
 	s/screen s/screen-256color s/screen-256color-bce s/screen-bce \
 	s/screen-s s/screen-w s/screen.xterm-256color s/sun t/tmux \
 	t/tmux-256color v/vt100 v/vt102 v/vt220 v/vt52 w/wsvt25 w/wsvt25m \
-	x/xterm x/xterm-256color x/xterm-color x/xterm-mono \
+	x/xterm x/xterm-256color x/xterm-color x/xterm-kitty x/xterm-mono \
 	x/xterm-r5 x/xterm-r6 x/xterm-vt220 x/xterm-xfree86 E/Eterm \
 	E/Eterm-color
 
